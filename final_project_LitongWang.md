@@ -1,0 +1,6 @@
+# Outline
+Marine fish are valuable resources on which survival depends, and compared with freshwater fish, they have great differences in morphology, physiology and ecology. Marine fish are diverse and widely distributed, from the deep sea to the shallow sea, from the tropics to the frigid zone have their figure. They can not only drive the development of human marine economic industry, but also improve marine ecology. Analyzing the differences in attributes between different marine fishes can better designate more targeted conservation and intervention strategies for different categories of fishes effectively. The data visualization and analysis story of this project starts with the analysis of the attribute differences between different categories of fish in the North Atlantic and the East Pacific Ocean, further analyzes whether there are differences in growth coefficients estimated by the Von Bertalanffy equation for different categories of fish, and finally analyzes through visual graphs and charts whether the attribute differences are the essential cause of the differences in growth coefficients, and whether those attribute differences lead to growth coefficient variation in growth coefficients.
+# Sketches
+# Data
+# Method and medium
+
