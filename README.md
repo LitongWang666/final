@@ -3,3 +3,8 @@ Marine fish are valuable resources on which survival depends, and compared with 
 # Sketches
 # Data
 # Method and medium
+
+## Data Sources
+
+Marine fish species from North Atlantic and Northeast Pacific continental shelf seas
+Beukhof, E., Dencker, T. S., Palomares, M. L., & Maureaud, A. (2019). A trait collection of marine fish species from North Atlantic and Northeast Pacific continental shelf seas. Pangaea, 1, 12. https://doi.org/10.1594/PANGAEA.900866.
