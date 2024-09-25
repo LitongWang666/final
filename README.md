@@ -5,10 +5,10 @@ Marine fish are valuable resources on which survival depends, and compared with 
 We chose for visualization and analysis the marine fish dataset Beukhof_2019, which explores the distribution of marine fishes in the continental shelf waters of the North Atlantic and the Northeast Pacific and the differences in attributes of different species. We provide an open source download link for the Beukhof_2019 dataset: https://doi.pangaea.de/10.1594/PANGAEA.900866.
 
 This dataset contains character-based attributes as follows:
-family,genus,species,taxonomic.rank,taxon,habitat,feeding.mode,body.shape,fin.shape,spawning.type
-; 
-Numerical type attributes are as follows: trophic.level,aspect.ratio,offspring.size,age.maturity,fecundity,length.infinity,growth.coefficient,length.max,age.max
-. 
+family,genus,species,taxonomic.rank,taxon,habitat,feeding.mode,body.shape,fin.shape,spawning.type.
+Numerical type attributes are as follows: 
+trophic.level,aspect.ratio,offspring.size,age.maturity,fecundity,length.infinity,growth.coefficient,length.max,age.max. 
+
 These attributes record a variety of attribute data such as individual morphology, fecundity, habitat habit, foraging mode, etc. possessed by different subjects of fishes in the North Atlantic and Northeast Pacific waters. It reflects the multi-faceted characteristics of fishes from multiple perspectives.
 
 In this visualization project, I hope to present these abstract attributes through a good visualization method. The data-driven format is also used to further explore the differences in attributes among different subjects of fishes.
