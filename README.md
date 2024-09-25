@@ -3,6 +3,7 @@ Marine fish are valuable resources on which survival depends, and compared with 
 # Sketches
 # Data
 We chose for visualization and analysis the marine fish dataset Beukhof_2019, which explores the distribution of marine fishes in the continental shelf waters of the North Atlantic and the Northeast Pacific and the differences in attributes of different species. We provide an open source download link for the Beukhof_2019 dataset: https://doi.pangaea.de/10.1594/PANGAEA.900866.
+
 This dataset contains character-based attributes as follows:
 family,genus,species,taxonomic.rank,taxon,habitat,feeding.mode,body.shape,fin.shape,spawning.type
 ; 
@@ -14,6 +15,5 @@ In this visualization project, I hope to present these abstract attributes throu
 # Method and medium
 
 ## Data Sources
-
 Marine fish species from North Atlantic and Northeast Pacific continental shelf seas
 Beukhof, E., Dencker, T. S., Palomares, M. L., & Maureaud, A. (2019). A trait collection of marine fish species from North Atlantic and Northeast Pacific continental shelf seas. Pangaea, 1, 12. https://doi.org/10.1594/PANGAEA.900866.
