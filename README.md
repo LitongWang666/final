@@ -3,7 +3,7 @@ Marine fish are valuable resources on which survival depends, and compared with 
 # Sketches
 
 
-[![GitHub](https://github.com/LitongWang666/final/blob/main/img/sket1.png "Sample distribution of marine fishes")]
+![GitHub](https://github.com/LitongWang666/final/blob/main/img/sket1.png "Sample distribution of marine fishes")
 # Data
 We chose for visualization and analysis the marine fish dataset Beukhof_2019, which explores the distribution of marine fishes in the continental shelf waters of the North Atlantic and the Northeast Pacific and the differences in attributes of different species. We provide an open source download link for the Beukhof_2019 dataset: [GitHub](https://doi.pangaea.de/10.1594/PANGAEA.900866)``.
 
