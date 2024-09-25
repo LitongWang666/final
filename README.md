@@ -16,6 +16,7 @@ These attributes record a variety of attribute data such as individual morpholog
 
 In this visualization project, I hope to present these abstract attributes through a good visualization method. The data-driven format is also used to further explore the differences in attributes among different subjects of fishes.
 # Method and medium
+We begin with a histogram visualization to see the distribution of samples, and in order to give credibility to the data results, we will select a few of the fish species with the highest sample sizes for our analysis. We then utilize pie charts and other visualizations to show the differences in their attributes. Then, we utilize box plots to visualize the differences in growth coefficients. Finally, we try to see the correlation between growth coefficients and attribute differences through correlation analysis.
 
 ## Data Sources
 Marine fish species from North Atlantic and Northeast Pacific continental shelf seas
