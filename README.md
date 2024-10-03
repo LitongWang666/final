@@ -1,25 +1,86 @@
-# Outline
-Marine fish are valuable resources on which survival depends, and compared with freshwater fish, they have great differences in morphology, physiology and ecology. Marine fish are diverse and widely distributed, from the deep sea to the shallow sea, from the tropics to the frigid zone have their figure. They can not only drive the development of human marine economic industry, but also improve marine ecology. Analyzing the differences in attributes between different marine fishes can better designate more targeted conservation and intervention strategies for different categories of fishes effectively. The data visualization and analysis story of this project starts with the analysis of the attribute differences between different categories of fish in the North Atlantic and the East Pacific Ocean, further analyzes whether there are differences in growth coefficients estimated by the Von Bertalanffy equation for different categories of fish, and finally analyzes through visual graphs and charts whether the attribute differences are the essential cause of the differences in growth coefficients, and whether those attribute differences lead to growth coefficient variation in growth coefficients.
-# Sketches
+# Current Status of TikTok in China - Data Visualization Story Outline
 
+https://preview.shorthand.com/22N5sx6XvGFK9Gfh
 
-![GitHub](img/sket1.png "Sample distribution of marine fishes")
-![GitHub](img/sket2.png "Sample distribution of marine fishes")
-![GitHub](img/sket3.png "Sample distribution of marine fishes")
-# Data
-We chose for visualization and analysis the marine fish dataset Beukhof_2019, which explores the distribution of marine fishes in the continental shelf waters of the North Atlantic and the Northeast Pacific and the differences in attributes of different species. We provide an open source download link for the Beukhof_2019 dataset: [GitHub](https://doi.pangaea.de/10.1594/PANGAEA.900866)``.
+![dasboard](./a.jpg)
+### 1. The Rapid Growth of TikTok Users and Information Dissemination
 
-This dataset contains character-based attributes as follows:
-family,genus,species,taxonomic.rank,taxon,habitat,feeding.mode,body.shape,fin.shape,spawning.type.
-Numerical type attributes are as follows: 
-trophic.level,aspect.ratio,offspring.size,age.maturity,fecundity,length.infinity,growth.coefficient,length.max,age.max. 
+- User Growth Curve: Show the rapid growth in the number of TikTok users since its launch, especially the surge during the pandemic.
+- Speed and Scope of Information Dissemination: Visualize the widespread and rapid dissemination of information through metrics like likes, comments, and shares.
+- Content Consumption Time: Present the average daily usage time of TikTok users, highlighting its deep penetration into users' daily lives.
 
-These attributes record a variety of attribute data such as individual morphology, fecundity, habitat habit, foraging mode, etc. possessed by different subjects of fishes in the North Atlantic and Northeast Pacific waters. It reflects the multi-faceted characteristics of fishes from multiple perspectives.
+### 2. The Rise of Influencers and Their Impact on E-commerce
 
-In this visualization project, I hope to present these abstract attributes through a good visualization method. The data-driven format is also used to further explore the differences in attributes among different subjects of fishes.
-# Method and medium
-We begin with a histogram visualization to see the distribution of samples, and in order to give credibility to the data results, we will select a few of the fish species with the highest sample sizes for our analysis. We then utilize pie charts and other visualizations to show the differences in their attributes. Then, we utilize box plots to visualize the differences in growth coefficients. Finally, we try to see the correlation between growth coefficients and attribute differences through correlation analysis.
+- The Emergence of Influencers Marketing: Display data on influencer like "Xiao Yang Ge" and how they drive sales through short videos and live streaming.
+- Analysis of Influencer Earnings: Compare the income of well-known influencers to showcase their significant impact on e-commerce.
+- Brand Collaboration Cases: Highlight successful brand collaboration cases, showing the revenue growth driven by influencers and their partnerships.
 
-## Data Sources
-Marine fish species from North Atlantic and Northeast Pacific continental shelf seas
-Beukhof, E., Dencker, T. S., Palomares, M. L., & Maureaud, A. (2019). A trait collection of marine fish species from North Atlantic and Northeast Pacific continental shelf seas. Pangaea, 1, 12. https://doi.org/10.1594/PANGAEA.900866.
+### 3. Content Quality and Trust Crisis
+
+- Quality Issues in Influencer Marketing: Use user feedback and sentiment analysis to illustrate the uneven quality of influencer-promoted products.
+- Complaints and Return Rates: Visualize the complaint and return rates of products sold via influencers, reflecting the inconsistency in product quality.
+- Decline in User Trust: Show the changes in user trust toward influencer marketing, emphasizing the decline due to quality issues.
+
+### 4. Future Trends of TikTok
+
+- Regulations and Platform Governance: Illustrate changes in government and platform regulations regarding content quality and review processes.
+- Sustainable Development: Forecast TikTok's future in regulating content creation and improving quality.
+
+# **User research and interviews**
+
+- **Question 1:** How often do you use TikTok, and how much time do you spend on it daily?
+- **Question 2:** Have you ever purchased a product recommended by an influencer? What was your experience like?
+- **Question 3:** How do you perceive the speed of information dissemination and content quality on TikTok? Are there any ads or information you find untrustworthy?
+- **Question 4:** What are your thoughts on the influencer economy, especially large influencers like "Xiao Yang Ge"?
+- **Question 5:** If you could change one thing about TikTok, what would it be?
+
+### Participant 1: 25 years old, active social media user
+
+- **Question 1:** I use TikTok every day, about 2-3 hours mainly during my break times, watching funny videos or trending news.
+- **Question 2:** Yes, I’ve bought several influencer-recommended products, but the experience was mediocre. One time I bought a beauty product, and the actual effect was far from what was shown in the live stream, so I returned it.
+- **Question 3:** The speed of information dissemination on TikTok is incredibly fast, and you can catch trending news almost instantly. However, the content quality varies a lot. There are many ads and false promotions that are quite annoying.
+- **Question 4:** The influencer economy has created a lot of business opportunities, but some influencers over-exaggerate their promotions just to sell products. For influencers like Xiao Yang Ge, while they have strong selling power, I don't fully trust their recommendations, as it feels more like they’re just trying to sell.
+- **Question 5:** I hope TikTok would strengthen its review of ads and influencer content, so false promotions don’t become so rampant.
+
+---
+
+### Participant 2: 35 years old, e-commerce consumer
+
+- **Question 1:** I use TikTok around four or five times a week, about an hour each time, mainly to check out updates from friends and some funny videos.
+- **Question 2:** I’ve bought several products recommended by influencers, mostly household items. The experience was generally fine and the prices were good, but once I bought clothing, and the quality was really bad. Returning the item was also quite a hassle.
+- **Question 3:** The information spreads very quickly on TikTok, but the content quality needs improvement. Some of the products being recommended are clearly overhyped, especially health-related items—it’s hard to distinguish what’s real.
+- **Question 4:** I think the influencer economy is a growing trend, and influencers like Xiao Yang Ge have significant influence, but I’m cautious about trusting their recommendations. It feels like many of the promotions are driven by businesses behind the scenes.
+- **Question 5:** I hope TikTok would implement stricter regulations for influencer marketing to ensure the products they recommend are of good quality. That would make me more willing to trust them.
+
+---
+
+### Participant 3: 30 years old, short video content creator
+
+- **Question 1:** I use TikTok every day, around 3-4 hours, since as a content creator, I need to stay updated on trends and hot topics.
+- **Question 2:** I haven’t personally bought anything recommended by influencers because I know many tricks of live-stream sales. As a creator myself, I understand how they exaggerate products, and often the descriptions are over the top.
+- **Question 3:** Information spreads very quickly on TikTok, but it’s hard to guarantee the authenticity of the content. Especially in product promotions, many of the descriptions are overly polished, and users can easily be misled.
+- **Question 4:** As a creator, I understand the pressure to promote products, but I believe big influencers like Xiao Yang Ge should be more responsible. Their recommendations have a huge impact, and they should be accountable to consumers, not just focused on profits.
+- **Question 5:** I hope TikTok would improve its algorithm to push more quality content rather than just focusing on traffic and engagement metrics. Too much low-quality influencer content gets highlighted.
+
+---
+
+### Participant 4: 40 years old, e-commerce professional
+
+- **Question 1:** I don’t use TikTok much daily, around half an hour, mainly to follow market trends and check competitors’ performances in influencer marketing.
+- **Question 2:** I haven’t personally bought anything recommended by influencers, but I know many consumers buy through these channels. As a business owner, we consider collaborating with influencers, but we have to be selective because the quality of recommendations varies a lot.
+- **Question 3:** TikTok spreads information very efficiently, but the content quality needs to be improved. Especially in the influencer-driven sales space, many products’ actual quality doesn’t match their promotion, which over time erodes consumer trust.
+- **Question 4:** The influencer economy is a double-edged sword. Influencers like Xiao Yang Ge can quickly boost sales, but without quality control, it may damage the credibility of the entire industry in the long run.
+- **Question 5:** I hope TikTok introduces a more transparent review system for influencer-promoted products, allowing consumers to easily see real feedback from others instead of just relying on influencer sales pitches.
+
+# My Take and Improvement Plan
+
+Through the interviews, it became clear that while TikTok (Douyin) is extremely effective in rapidly disseminating information and engaging users, there are significant concerns around content quality and the credibility of influencer marketing. Most participants expressed dissatisfaction with the exaggerated claims made by influencers, particularly in the e-commerce sector. Trust in influencer-driven sales is waning, as several participants recounted poor experiences with products that didn’t match expectations, leading to increased return rates and complaints. Furthermore, while influencers like Xiao Yang Ge can drive significant sales, the long-term impact of inconsistent product quality could damage consumer trust and, in turn, the platform's credibility.
+
+The findings also revealed that TikTok users are frustrated by the overwhelming number of ads and questionable promotions, which undermines their trust in the platform. Additionally, there’s a call for stronger regulations and quality control mechanisms to ensure that the products promoted by influencers meet a certain standard of quality and that the platform's algorithm prioritizes trustworthy content.
+
+# Improvement Plan:
+
+1. **Visualizing Declining Trust and Consumer Feedback**: I will integrate a visualization that shows the increase in return rates, complaints, and declining trust in influencer marketing over time. This will highlight the growing dissatisfaction among consumers due to inconsistent product quality and false advertising.
+2. **Content Quality vs. Information Dissemination Speed**: A comparative chart will be added to juxtapose the speed of information dissemination on TikTok with user feedback on content quality. This will help demonstrate that while the platform excels in spreading information, content reliability is often compromised.
+3. **Incorporating Product Quality Ratings**: A key visualization improvement will be the addition of data showcasing product quality ratings versus influencer recommendations. This will include real user reviews and ratings to give a more nuanced view of how influencer-promoted products perform in reality.
+4. **Algorithmic Influence and Platform Governance**: A forecast will be developed to explore future trends in TikTok’s platform governance, including predictions about stricter regulations on influencer content and product promotions. This will provide a forward-looking view of how TikTok might address the quality and trust issues identified.
