@@ -2,7 +2,6 @@
 
 https://preview.shorthand.com/22N5sx6XvGFK9Gfh
 
-![dasboard](./a.jpg)
 ### 1. The Rapid Growth of TikTok Users and Information Dissemination
 
 - User Growth Curve: Show the rapid growth in the number of TikTok users since its launch, especially the surge during the pandemic.
@@ -77,6 +76,17 @@ https://preview.shorthand.com/22N5sx6XvGFK9Gfh
 Through the interviews, it became clear that while TikTok (Douyin) is extremely effective in rapidly disseminating information and engaging users, there are significant concerns around content quality and the credibility of influencer marketing. Most participants expressed dissatisfaction with the exaggerated claims made by influencers, particularly in the e-commerce sector. Trust in influencer-driven sales is waning, as several participants recounted poor experiences with products that didn’t match expectations, leading to increased return rates and complaints. Furthermore, while influencers like Xiao Yang Ge can drive significant sales, the long-term impact of inconsistent product quality could damage consumer trust and, in turn, the platform's credibility.
 
 The findings also revealed that TikTok users are frustrated by the overwhelming number of ads and questionable promotions, which undermines their trust in the platform. Additionally, there’s a call for stronger regulations and quality control mechanisms to ensure that the products promoted by influencers meet a certain standard of quality and that the platform's algorithm prioritizes trustworthy content.
+
+# Targeted Audience
+
+The primary audience for this data visualization story is:
+
+1. **Active Social Media Users (Aged 18-40)**: This group represents frequent TikTok users who engage with the platform daily, either consuming content or making purchases influenced by popular influencers. They are likely to have encountered both the benefits and challenges of TikTok’s rapid information dissemination and influencer marketing.
+2. **E-commerce Shoppers**: These individuals have experience purchasing products through influencer marketing, particularly on platforms like TikTok. They have a vested interest in understanding the quality of products being promoted and the reliability of the influencers they follow. This audience is directly impacted by the issues of trust and product quality raised in the interviews.
+3. **Marketers and E-commerce Professionals**: Those working in the e-commerce or digital marketing space who either collaborate with influencers or plan to. This group will be interested in how influencer marketing impacts consumer behavior and platform trust, as well as in identifying potential long-term risks in relying heavily on influencer promotions.
+4. **Regulators and Policy Makers**: Individuals or organizations involved in digital content regulation and consumer protection. They will be particularly interested in understanding how influencer-driven marketing impacts consumers and what measures might be taken to improve transparency, product quality, and consumer trust.
+
+By targeting these groups, the story will not only provide insights into the current state of TikTok and influencer marketing but also propose a clear path forward to improving the platform’s reliability and enhancing the user experience.
 
 # Improvement Plan:
 
